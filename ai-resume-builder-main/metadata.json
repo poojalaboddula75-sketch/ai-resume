@@ -1,0 +1,6 @@
+{
+  "name": "ResumAI - AI Resume Builder & PDF Studio",
+  "description": "Build, parse, enhance, and export modern ATS-ready resumes with AI-powered content improvement, job tailoring, and real-time PDF generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
